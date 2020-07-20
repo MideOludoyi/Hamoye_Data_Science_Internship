@@ -1,0 +1,1 @@
+The code contained in the Stage_A.ipynb file are all written in Python. It's in fulfilment of the Hamoye Data Science internship Stage A program. All data wrangling were done with respect to an energy dataset.
